@@ -8,8 +8,5 @@ public abstract class Test {
 	 abstract void demo();
 	 
 	 
-	 public static void main(String[] args) {
-		
-	} 
-
+	 
 }

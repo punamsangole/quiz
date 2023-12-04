@@ -1,7 +1,7 @@
 package com.interfaces;
 
 public class Test3 implements Test{
-   public void m1() {
+    public void m1() {
     	System.out.println("interface");
     }
     
